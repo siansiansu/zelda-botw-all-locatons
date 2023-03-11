@@ -1,4 +1,4 @@
-# Locations in Breath of the Wild
+# Locations in The Legend of Zelda: Breath of the Wild
 
 With this checklist and [Breath of the Wild Interactive Map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/), you can easily track your progress and find all the locations required to achieve the 100 percent completion rate.
 
