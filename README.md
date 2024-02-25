@@ -1,5 +1,8 @@
 # 薩爾達傳說曠野之息中英文地名對照
 
+[![hackmd-github-sync-badge](https://hackmd.io/guxbyBnCSrCX5u4jRcxRYw/badge)](https://hackmd.io/guxbyBnCSrCX5u4jRcxRYw)
+
+
 With this checklist and [Breath of the Wild Interactive Map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/), you can easily track your progress and find all the locations required to achieve the 100 percent completion rate.
 
 | #   | Region              | Zone                 | Location                     | Taiwanese Mandarin     | Checkbox           |
