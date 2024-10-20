@@ -1,4 +1,4 @@
-# 薩爾達傳說曠野之息中英文地名對照
+# 薩爾達傳說 曠野之息中英文地名對照
 
 [![hackmd-github-sync-badge](https://hackmd.io/guxbyBnCSrCX5u4jRcxRYw/badge)](https://hackmd.io/guxbyBnCSrCX5u4jRcxRYw)
 
